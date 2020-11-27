@@ -8,8 +8,8 @@ sudo python send_xbee.py <xbee_MAC> "Hello world"
 ==========================================
 
 ToDo's:
-- connect xbee 1 to raspberry
-- connect xbee 2 to xbee 1
+- connect xbee 1 to raspberry through arduino
+- connect xbee 2
 - talk raspberry-xbee
 - talk xbee-xbee
 - send&receive json

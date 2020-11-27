@@ -12,6 +12,7 @@ args = parser.parse_args()
 handle = EXbee.EXbee(args.o,9600)
 handle.API = 1
 response = handle.read_rx()
-print response
-print "Sender:%s     " % response['SOURCE_ADDRESS_64']
-print "Message: %s   " % response['DATA']
+print(response)
+print("Sender:%s     " % response['SOURCE_ADDRESS_64'])
+print("Message: %s   " % response['DATA'])
+print('ok')
