@@ -10,6 +10,3 @@ Zadania wykonane:
 - Przygotowanie zestawu pomiarowego,
 - Opracowanie programów,
 - Sprawdzenie poprawności działania przygotowanego układu.
-
-Issues:
-- wymagana ponowna konfiguracja modułów w celu usunięcia problemów z widocznością modułu w aplikacji XCTU
